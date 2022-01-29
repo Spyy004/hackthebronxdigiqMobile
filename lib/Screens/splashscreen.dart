@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:digiq/sign_up.dart';
+import 'package:digiq/Screens/sign_up.dart';
 import 'package:flutter/material.dart';
 
 class SplashScreen extends StatefulWidget {

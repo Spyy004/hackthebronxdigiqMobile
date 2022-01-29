@@ -1,11 +1,11 @@
-import 'package:digiq/singlequeuemodel.dart';
+import 'package:digiq/MyProfileModel/singlequeuemodel.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
-import 'all_queues_data_model.dart';
+import '../MyProfileModel/all_queues_data_model.dart';
 
 class GetServices{
 

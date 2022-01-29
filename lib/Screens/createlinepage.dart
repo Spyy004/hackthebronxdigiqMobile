@@ -1,9 +1,9 @@
-import 'package:digiq/constants.dart';
+import 'package:digiq/Constants/constants.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:qr_flutter/qr_flutter.dart';
-import 'PostServices/post_services.dart';
+import '../PostServices/post_services.dart';
 
 class CreateLinePage extends StatefulWidget {
   const CreateLinePage({Key? key}) : super(key: key);

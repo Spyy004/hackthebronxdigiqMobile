@@ -1,16 +1,16 @@
 
 
 import 'package:flutter/material.dart';
-import 'package:digiq/constants.dart';
+import 'package:digiq/Constants/constants.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:pin_code_fields/pin_code_fields.dart';
-import 'package:digiq/round_button.dart';
-import 'package:digiq/round_button.dart';
-import 'package:digiq/get_services.dart';
-import 'package:digiq/login_sreen.dart';
+import 'package:digiq/Constants/round_button.dart';
+import 'package:digiq/Constants/round_button.dart';
+import 'package:digiq/GetServices/get_services.dart';
+import 'package:digiq/Screens/login_sreen.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 
-import 'PostServices/post_services.dart';
+import '../PostServices/post_services.dart';
 
 
 

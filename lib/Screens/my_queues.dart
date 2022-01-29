@@ -1,15 +1,15 @@
 import 'package:digiq/MyProfileModel/profilemodel.dart';
 import 'package:digiq/PostServices/post_services.dart';
-import 'package:digiq/singlequeuemodel.dart';
-import 'package:digiq/twilio_service.dart';
+import 'package:digiq/MyProfileModel/singlequeuemodel.dart';
+import 'package:digiq/GetServices/twilio_service.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:flutter_speed_dial/flutter_speed_dial.dart';
-import 'constants.dart';
-import 'get_services.dart';
+import '../Constants/constants.dart';
+import '../GetServices/get_services.dart';
 import 'package:google_fonts/google_fonts.dart';
 class MyQueues extends StatefulWidget {
   const MyQueues({Key? key}) : super(key: key);

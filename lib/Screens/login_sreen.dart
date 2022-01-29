@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'constants.dart';
-import 'round_button.dart';
-import 'PostServices/post_services.dart';
+import '../Constants/constants.dart';
+import '../Constants/round_button.dart';
+import '../PostServices/post_services.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'dart:convert';
 import 'package:shared_preferences/shared_preferences.dart';

@@ -1,7 +1,7 @@
-import 'package:digiq/round_button.dart';
+import 'package:digiq/Constants/round_button.dart';
 import 'package:flutter/material.dart';
-import 'constants.dart';
-import 'PostServices/post_services.dart';
+import '../Constants/constants.dart';
+import '../PostServices/post_services.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 
 

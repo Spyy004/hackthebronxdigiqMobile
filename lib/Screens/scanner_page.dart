@@ -1,17 +1,17 @@
-import 'package:digiq/round_button.dart';
-import 'package:digiq/singlequeuemodel.dart';
+import 'package:digiq/Constants/round_button.dart';
+import 'package:digiq/MyProfileModel/singlequeuemodel.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:qr_code_scanner/qr_code_scanner.dart';
 import 'dart:io';
-import 'package:digiq/get_services.dart';
-import 'package:digiq/login_sreen.dart';
+import 'package:digiq/GetServices/get_services.dart';
+import 'package:digiq/Screens/login_sreen.dart';
 import 'package:auto_size_text/auto_size_text.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 
-import 'PostServices/post_services.dart';
+import '../PostServices/post_services.dart';
 
 class Scanner extends StatefulWidget {
   const Scanner({Key? key}) : super(key: key);

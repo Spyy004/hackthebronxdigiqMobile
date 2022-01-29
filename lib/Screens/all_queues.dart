@@ -1,12 +1,12 @@
 import 'package:digiq/PostServices/post_services.dart';
-import 'package:digiq/all_queues_data_model.dart';
+import 'package:digiq/MyProfileModel/all_queues_data_model.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:flutter_speed_dial/flutter_speed_dial.dart';
-import 'constants.dart';
-import 'get_services.dart';
+import '../Constants/constants.dart';
+import '../GetServices/get_services.dart';
 import 'package:expansion_tile_card/expansion_tile_card.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
